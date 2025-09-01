@@ -1,9 +1,10 @@
 alert('Boas vindas ao nosso site!');
 
-let contador = 10;
+let numeroDigitado = prompt('Digite um número para realizar a contagem regressiva?');
 
-while(contador >= 0){
-    alert(`${contador}`);
-    contador--;
+while(numeroDigitado >= 0){
+    alert(`${numeroDigitado}`);
+    numeroDigitado--;
 }
 
+alert('Fim!')
