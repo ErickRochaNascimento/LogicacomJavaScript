@@ -1,8 +1,8 @@
 alert('Boas vindas ao nosso site!');
 
-let contador = 1;
+let contador = 10;
 
-while(contador <= 10){
+while(contador >= 0){
     alert(`${contador}`);
     contador++;
 }
