@@ -1,5 +1,8 @@
 alert('Boas vindas ao nosso site!');
 
-let nome = prompt('Qual o seu nome?');
+let contador = 1;
 
-alert(`Boas Vindas ${nome}`);
+while(contador < 10){
+    alert(`${contador}`);
+}
+
