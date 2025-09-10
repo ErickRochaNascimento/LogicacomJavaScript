@@ -5,18 +5,19 @@ function exibirTextoNaTela(tag, texto){
 campo.innerHTML = texto
 }
 
-let min = 5;
-let max = 10;
+
 
 
 exibirTextoNaTela('h1','Jogo  do número secreto');
-exibirTextoNaTela('p',`Escolha um número entre ${min} e ${max}`);
+exibirTextoNaTela('p',`Escolha um número entre 1 e 10`);
 
 
 function verificarChute(){
     console.log('O botão foi clicadol');
+    console.log(`${numeroSecreto}`)
 }
 
-function gerarNumeroAleatorio(max, min){
-    parseInt(Math.random()* max + min);
+function gerarNumeroAleatorio(){
+    return parseInt(Math.random()* 10 + 1);
+    
 }
