@@ -29,8 +29,9 @@ O repositório está organizado em pastas que correspondem aos módulos do curso
 | `Explore funções e listas` | Contém os exercícios e projetos focados em funções e manipulação de arrays. |
 | `Programação com JavaScript` | Contém os fundamentos e desafios iniciais da linguagem. |
 
-## 👤 Autor
 
-**Erick Rocha Nascimento**
-*   [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
-*   [GitHub](https://github.com/ErickRochaNascimento)
+## 🧑‍💻 Autor
+
+**Erick Rocha Nascimento**  
+🔗 [LinkedIn](https://www.linkedin.com/in/erickrochanascimento) | [GitHub](https://github.com/ErickRochaNascimento)
+
