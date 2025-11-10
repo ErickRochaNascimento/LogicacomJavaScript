@@ -31,5 +31,6 @@ O repositório está organizado em pastas que correspondem aos módulos do curso
 
 ## 👤 Autor
 
-* **Erick Rocha Nascimento**
-* https://github.com/ErickRochaNascimento
+**Erick Rocha Nascimento**
+*   [LinkedIn](https://www.linkedin.com/in/erickrochanascimento)
+*   [GitHub](https://github.com/ErickRochaNascimento)
