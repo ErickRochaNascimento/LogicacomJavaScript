@@ -24,3 +24,25 @@ O conteúdo está organizado em módulos e desafios, refletindo o progresso no c
 
 * **Erick Rocha Nascimento**
 * https://github.com/ErickRochaNascimento
+## 📁 Estrutura Detalhada
+
+O repositório está organizado em pastas que correspondem aos módulos do curso:
+
+| Pasta | Descrição |
+| :--- | :--- |
+| `Explore funções e listas` | Contém os exercícios e projetos focados em funções e manipulação de arrays. |
+| `Programação com JavaScript` | Contém os fundamentos e desafios iniciais da linguagem. |
+
+## ▶️ Como Executar os Scripts
+
+Para rodar qualquer script deste repositório, você precisa ter o **Node.js** instalado em sua máquina.
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/ErickRochaNascimento/LogicacomJavaScript.git
+    cd LogicacomJavaScript
+    ```
+2.  **Execute o arquivo desejado:**
+    ```bash
+    node "Nome da Pasta/nome_do_script.js"
+    ```
